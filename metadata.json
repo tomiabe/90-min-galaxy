@@ -1,0 +1,6 @@
+{
+  "name": "The 90-Minute Universe",
+  "description": "An interactive generative art project mapping World Cup soccer matches into unique cosmic galaxies, where game events translate to celestial phenomena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
